@@ -14,7 +14,7 @@
     SELECT ContactName,CompanyName,City FROM Customers
     ```
     
-    ### VERİLERİ BİR SORGUYA GÖRE GETİRME
+    ### VERİLERİ BİR KOŞULA GÖRE GETİRME
     
     ```sql
     SELECT * FROM Customers where City = 'London' 
