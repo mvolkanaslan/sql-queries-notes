@@ -1,5 +1,3 @@
-SQL Sorgu Kaliplari
-
 # SQL Notes
 
 - SQL QUERIES
