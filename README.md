@@ -20,7 +20,8 @@
     SELECT * FROM Customers where City = 'London' 
     -- Ansi de metinler tek tirnaktir
     SELECT * FROM products where categoryId=1 or UnitPrice>=10 
-    -- farkli iki kosul "or" ile yapilir
+    -- veya durumu "or" ile yapilir
+    -- ve durumu "and" ile yapilir
     ```
     
     ### VERİLERİ SIRALAMA
